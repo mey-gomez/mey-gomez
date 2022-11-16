@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![GitHub mey-gomez](https://img.shields.io/github/followers/mey-gomez?label=follow&style=social)](https://github.com/mey-gomez)
+[![LinkedIn: Meylin Gomez](https://img.shields.io/badge/MeylinGomez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-s-5b8515b8/)](https://www.linkedin.com/in/meylin-ga/)
+
