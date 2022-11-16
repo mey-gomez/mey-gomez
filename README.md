@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Meylin Gómez](https://user-images.githubusercontent.com/51861697/202314098-11196212-2e12-411f-8b6e-ff8cc73c22ef.jpg)
 <!--
 **mey-gomez/mey-gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
